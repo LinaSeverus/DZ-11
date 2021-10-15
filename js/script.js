@@ -12,3 +12,13 @@ for (let i = 2; i <= userNum; i++) {
         }
     }
 }
+
+// for(let i = 2; i <= userNum; i++) {
+//     if(userNum % i === 0 && userNum !== i) {
+//         alert('Число не простое');
+//         break;
+//     }
+// }
+
+// alert('Число простое')
+
